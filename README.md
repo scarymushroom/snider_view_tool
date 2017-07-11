@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SniderViewTool::Renderer.copyright 'Justin Snider', 'All rights reserved'
+```
 
 ## Development
 
